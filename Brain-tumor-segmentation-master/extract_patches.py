@@ -259,8 +259,6 @@ if __name__ == '__main__':
     print("Size of the patches : ",Patches.shape)
     print("Size of their correponding targets : ",Y_labels.shape)
 
-    #save to disk as npy files
-    #np.save( "x_dataset_first_part",Patches )
-    #np.save( "y_dataset_first_part",Y_labels)
+    
 
 
